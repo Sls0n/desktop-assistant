@@ -1,5 +1,5 @@
 # Desktop-Assistant
-A simple desktop assistant that can do few tasks made using Python! (Under progess)
+A simple desktop assistant that can perform few tasks made using Python! (Under progess)
 
 You can use this assistant to automate regular, repetitive and boring tasks like opening a app, inquiring definition of something, fetching summary from wikipedia, searching for files, checking messages, sending emails, asking for date & time, opening browser and many more!
 However to use this you'll need to install some Python packages i.e. pyttsx3, speech_recognition, wikipedia, webbrowser, keyboard.
