@@ -1,8 +1,9 @@
-# Desktop-Assistant
-A simple desktop assistant that can perform few tasks made using Python! (Under progess)
+<h1> Desktop-Assistant </h1>
+Python-based desktop assistant that can perform a few simple tasks! (Under progess)
+<a href="https://drive.google.com/file/d/1FvHHTPKFjfyyrdiBqYH3uYZgzR9IkIKq/view?usp=sharing"> Download here </a>
 
-You can use this assistant to automate regular, repetitive and boring tasks like opening a app, inquiring definition of something, fetching summary from wikipedia, searching for files, checking messages, sending emails, asking for date & time, opening browser and many more!
-However to use this you'll need to install some Python packages i.e. pyttsx3, speech_recognition, wikipedia, webbrowser, keyboard.
+Among the things you can automate with this assistant are opening an app, finding the definition for something, fetching summaries from Wikipedia, searching for files, checking messages, sending emails, asking for dates and times, opening a browser, and others.
+However, to use this you'll need to install some Python packages i.e. pyttsx3, speech_recognition, wikipedia, webbrowser, and keyboard.
 To install :-
 1) Download & install Python from https://www.python.org/downloads (Made in version 3.10.4)
 2) Then open CMD with admin privilege and copy paste these commands one by one -->
