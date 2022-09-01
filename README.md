@@ -1,6 +1,6 @@
 <h1> Desktop-Assistant </h1>
-Python-based desktop assistant that can perform a few simple tasks! (Under progess)
-<a href="https://drive.google.com/file/d/1FvHHTPKFjfyyrdiBqYH3uYZgzR9IkIKq/view?usp=sharing"> Download here </a>
+Python-based desktop assistant that can perform a few simple tasks! (Under progess) <br>
+<a href="https://drive.google.com/file/d/1FvHHTPKFjfyyrdiBqYH3uYZgzR9IkIKq/view?usp=sharing"> &rarr; Download here </a>
 
 Among the things you can automate with this assistant are opening an app, finding the definition for something, fetching summaries from Wikipedia, searching for files, checking messages, sending emails, asking for dates and times, opening a browser, and others.
 However, to use this you'll need to install some Python packages i.e. pyttsx3, speech_recognition, wikipedia, webbrowser, and keyboard.
