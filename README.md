@@ -14,5 +14,5 @@ To install :-
          → pip install wikipedia<br>
          → pip insall pyttsx3<br>
 
-If any issue persists feel free to post in <a href="https://github.com/Sls0n/Desktop-Assistant/issues">issues</a>
+If any issue persists feel free to post in <a href="https://github.com/Sls0n/Desktop-Assistant/issues">issues</a>. <br>
 This is a work in progress and is only a prototype!
