@@ -1,5 +1,5 @@
 <h1> Desktop-Assistant </h1>
-<u>Created by - Silson & Iukes<u> <br>
+<h2>Created by - Silson & Iukes</h2> <br>
 Python-based desktop assistant that can perform a few simple tasks! (Under progess) <br>
 <a href="https://drive.google.com/file/d/1FvHHTPKFjfyyrdiBqYH3uYZgzR9IkIKq/view?usp=sharing"> &rarr; Download here </a>
 
